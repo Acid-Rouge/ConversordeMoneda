@@ -1,21 +1,18 @@
-# Money Converter
-<img src="https://i.imgur.com/fOgnGIb.png">
+# Convertidor de Monedas
 
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Estructura de las carpetas
 
-The workspace contains two folders by default, where:
+El espacio de trabajo contiende dos carpetas por default:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: La carpeta de sources
+- `lib`: la carpeta para matener dependencias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Los datos generados al compilar iran a la carpeta `bin` .
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Para personalizar la estructura de carpetas, abrir `.vscode/settings.json` y edita lo que sea necesario.
 
 ## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ dependencies.  [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
